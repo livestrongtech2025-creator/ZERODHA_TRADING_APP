@@ -1,0 +1,6 @@
+Stock,Circuit Type,Status,LTP,High,Upper Limit,Low,Lower Limit,Volume
+MAFANG,Upper Circuit,On Circuit,162.88,162.88,162.88,162.88,-,49134
+REGAAL,Upper Circuit,Touched & Reversed,85.72,87.69,87.69,69.8,-,16700001
+CONFIPET,Upper Circuit,Touched & Reversed,34.66,35.48,35.49,29.35,-,4043372
+RMDRIP,Lower Circuit,On Circuit,42.03,42.03,-,42.03,42.03,32093
+AXISCADES,Lower Circuit,Touched & Reversed,1395.0,1445.0,-,1384.9,1384.9,140749

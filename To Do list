@@ -1,0 +1,19 @@
+1. Get all the stocks for the day that had hit the Upper/Lower Circuit in the file. Even if they are not currently on the Circuit now but should have atleast touched the circuit value. this script runs in background after every 30 min and pushes the value in the CSV file. you can modify the script kite_upperlowerciruit.
+2. 10 am screener to be run
+update active_500.py on a button click
+"tradingsymbol": "GOLDGUINEA17DECFUT",
+                "quantity": -3,
+                "last_price": 23355,
+                "pnl": -93,
+                ADX Column as well
+
+
+2. Get Most active 500 Stocks list Updated with High Momentum: this script will auto run at:
+9.30 am, 11 am, 1pm, and 2pm and 2.30 pm
+
+3. Current Position Alignment: Once I click on the button it will show whether the positions are aligned right or not. In short it will run the Kite_positions_trend_gemini file
+
+    
+5. Exit all once i hit 4.5% profit for the day on total cap
+6. Get 
+

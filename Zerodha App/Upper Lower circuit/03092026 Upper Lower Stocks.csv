@@ -1,0 +1,6 @@
+Stock,Circuit Type,Status,LTP,High,Upper Limit,Low,Lower Limit,Volume
+PGEL,Upper Circuit,On Circuit,609.25,599.0,574.55,517.5,-,11304952
+MAFANG,Upper Circuit,On Circuit,161.78,162.03,160.77,155.0,-,429432
+GOLD1,Upper Circuit,Touched & Reversed,131.85,158.0,157.74,131.13,-,7637519
+DEEDEV,Lower Circuit,Touched & Reversed,280.2,308.2,-,261.2,269.85,7928475
+JPOLYINVST,Lower Circuit,Touched & Reversed,1101.8,1322.1,-,1024.5,1052,2283684

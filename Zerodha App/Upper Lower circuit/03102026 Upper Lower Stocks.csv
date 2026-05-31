@@ -1,0 +1,10 @@
+Stock,Circuit Type,Status,LTP,High,Upper Limit,Low,Lower Limit,Volume
+MCLEODRUSS,Upper Circuit,On Circuit,40.08,40.08,40.08,37.0,-,611036
+MAFANG,Upper Circuit,On Circuit,160.77,160.77,160.77,160.77,-,49819
+EBGNG,Upper Circuit,On Circuit,356.6,356.6,356.6,350.0,-,35407
+EASEMYTRIP,Upper Circuit,Touched & Reversed,7.5,7.93,7.93,7.17,-,22563131
+ABSLAMC,Upper Circuit,Touched & Reversed,1004.0,1046.55,1046.55,879.65,-,3296499
+EPACKPEB,Upper Circuit,Touched & Reversed,161.15,162.15,162.15,156.05,-,640025
+GKENERGY,Upper Circuit,Touched & Reversed,104.37,105.42,105.42,101.0,-,364252
+SMLMAH,Upper Circuit,Touched & Reversed,4185.6,4189.2,4189.2,3871.0,-,143201
+RMDRIP,Lower Circuit,On Circuit,46.56,46.56,-,46.56,46.56,101775

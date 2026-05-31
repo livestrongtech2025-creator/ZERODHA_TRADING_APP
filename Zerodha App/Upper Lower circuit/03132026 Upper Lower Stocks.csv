@@ -1,0 +1,9 @@
+Stock,Circuit Type,Status,LTP,High,Upper Limit,Low,Lower Limit,Volume
+MAFANG,Upper Circuit,On Circuit,162.88,162.62,162.62,161.55,-,331427
+NACLIND,Upper Circuit,Touched & Reversed,121.06,127.11,127.11,115.01,-,1982173
+KALPATARU,Upper Circuit,Touched & Reversed,299.5,329.45,329.45,295.65,-,1772051
+ELLEN,Lower Circuit,Touched & Reversed,217.05,215.9,-,195.35,195.35,2081059
+JINDALPOLY,Lower Circuit,Touched & Reversed,939.3,963.0,-,892.35,892.35,983597
+GKENERGY,Lower Circuit,Touched & Reversed,108.07,108.45,-,102.67,102.67,313083
+AXISCADES,Lower Circuit,Touched & Reversed,1385.2,1405.1,-,1316.0,1316,133607
+RMDRIP,Lower Circuit,Touched & Reversed,42.03,39.93,-,39.93,39.93,110756

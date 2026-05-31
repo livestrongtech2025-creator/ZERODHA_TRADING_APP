@@ -1,0 +1,8 @@
+Stock,Circuit Type,LTP,High,Upper Limit,Volume,Low,Lower Limit
+APEX,Upper Circuit,432.4,487.95,475.6,0,,
+BLUEJET,Upper Circuit,397.3,443.35,437.0,0,,
+GKENERGY,Upper Circuit,111.06,116.8,116.61,0,,
+SMLMAH,Upper Circuit,4670.6,4940.0,4904.1,0,,
+AXISCADES,Lower Circuit,1422.1,,,0,1344.1,1351.0
+EBGNG,Lower Circuit,335.8,,,0,318.1,319.05
+FAZE3Q,Lower Circuit,611.3,,,0,549.25,550.2

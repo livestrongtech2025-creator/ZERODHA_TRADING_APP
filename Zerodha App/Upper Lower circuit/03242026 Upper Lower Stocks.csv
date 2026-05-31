@@ -1,0 +1,5 @@
+Stock,Circuit Type,Status,LTP,High,Upper Limit,Low,Lower Limit,Volume
+MAFANG,Upper Circuit,On Circuit,156.15,156.15,156.15,156.15,-,34193
+EBGNG,Upper Circuit,Touched & Reversed,383.75,392.85,392.85,381.0,-,85948
+RMDRIP,Lower Circuit,On Circuit,38.68,40.42,-,38.68,38.68,2469095
+JINDALPOLY,Lower Circuit,On Circuit,863.95,878.5,-,863.95,863.95,22822
