@@ -1,0 +1,8 @@
+flask>=3.0.0
+markupsafe>=2.1.0
+kiteconnect>=3.0.0
+pandas>=2.0.0
+numpy>=1.26.0
+pytz>=2024.1
+python-dotenv>=1.0.0
+gunicorn>=21.2.0
